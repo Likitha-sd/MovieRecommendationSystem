@@ -5,7 +5,8 @@ This project suggests movies similar to the one a user selects, based on metadat
 
 
 # App Link
-https://movierecommendationsystem-jlrustyeua7hunkktwsln7.streamlit.app/ 
+https://movierecommendationsystem-jlrustyeua7hunkktwsln7.streamlit.app/
+
 ---
 
 ## 📖 Overview
