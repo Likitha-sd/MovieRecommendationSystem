@@ -3,6 +3,9 @@
 A content-based movie recommendation system built using Python, Pandas, and Scikit-learn.  
 This project suggests movies similar to the one a user selects, based on metadata and similarity scores.
 
+
+# App Link
+https://movierecommendationsystem-jlrustyeua7hunkktwsln7.streamlit.app/ 
 ---
 
 ## 📖 Overview
